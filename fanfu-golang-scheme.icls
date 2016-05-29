@@ -1,0 +1,89 @@
+<scheme name="fanfu-golang-scheme" version="142" parent_scheme="Darcula">
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="Menlo" />
+  <attributes>
+    <option name="GO_BUILTIN_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="ae6642" />
+      </value>
+    </option>
+    <option name="GO_BUILTIN_TYPE_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="426ab3" />
+      </value>
+    </option>
+    <option name="GO_EXPORTED_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="7947" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="GO_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="9ad6" />
+      </value>
+    </option>
+    <option name="GO_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="aa30cc" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="GO_LOCAL_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="7947" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="GO_LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="c66886" />
+      </value>
+    </option>
+    <option name="GO_METHOD_RECEIVER">
+      <value>
+        <option name="FOREGROUND" value="c69f4d" />
+      </value>
+    </option>
+    <option name="GO_PACKAGE_EXPORTED_INTERFACE">
+      <value>
+        <option name="FOREGROUND" value="4c99c6" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="GO_PACKAGE_EXPORTED_STRUCT">
+      <value>
+        <option name="FOREGROUND" value="b3424a" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="GO_PACKAGE_EXPORTED_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="5c7a29" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="GO_PACKAGE_LOCAL_STRUCT">
+      <value>
+        <option name="FOREGROUND" value="b3424a" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="GO_STRING">
+      <value>
+        <option name="FOREGROUND" value="878516" />
+      </value>
+    </option>
+    <option name="GO_STRUCT_EXPORTED_MEMBER">
+      <value>
+        <option name="FOREGROUND" value="e0861a" />
+      </value>
+    </option>
+    <option name="GO_STRUCT_LOCAL_MEMBER">
+      <value>
+        <option name="FOREGROUND" value="e0861a" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
